@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DymphnaMary
-- 👀 I’m interested in Creating Websites and developing mobile apps. 
-- 🌱 I’m currently pursuing B.Tech Information Technology
+- 👀 I’m passionate about securing systems. 
+- 🌱 I’m currently pursuing my Masters in Information Systems Security
 - 📫 You can reach me dymphnamaryc@gmail.com
 
 <!---
