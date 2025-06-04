@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DymphnaMary
 - 👀 I’m passionate about securing systems. 
-- 🌱 I’m currently pursuing my Masters in Information Systems Security
+- 🌱 I have a Masters in Information Systems Security
 - 📫 You can reach me dymphnamaryc@gmail.com
 
 <!---
